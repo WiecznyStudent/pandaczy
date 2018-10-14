@@ -1,0 +1,5 @@
+start=int(input("Podaj Pierwsza Liczbe"))
+end=int(input("Podaj Ostatnia Liczbe"))
+step=int(input("Podaj co ile"))
+for a in range(start, end, step):
+	print(a)

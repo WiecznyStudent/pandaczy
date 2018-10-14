@@ -1,0 +1,3 @@
+slowo = input("Podaj Swoje Slowo")
+print(slowo[::-1])
+
